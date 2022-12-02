@@ -16,7 +16,7 @@ This python program takes takes in 6 .txt files for 3 mazes. Each maze has 2 tex
 
 
 # install python3 and python
-download or clone entire folder
-open folder in command line or IDE of choice such as VS Code
-use the command 'python AStarMazeSolver.py'
-results will be displayed. 
+1. download or clone entire folder
+2. open folder in command line or IDE of choice such as VS Code
+3. use the command 'python AStarMazeSolver.py'
+4. results will be displayed. 
